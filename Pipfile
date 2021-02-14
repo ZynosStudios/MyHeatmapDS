@@ -4,6 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+"discord.py" = "*"
+plotly = "*"
+sqlalchemy = "*"
+sphinx = "*"
 
 [dev-packages]
 
